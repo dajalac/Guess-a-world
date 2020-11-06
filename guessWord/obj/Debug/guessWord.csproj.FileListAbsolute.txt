@@ -1,0 +1,30 @@
+D:\LONE STAR\C#\programas\guessAWord\guessWord\guessWord\bin\Debug\guessWord.exe.config
+D:\LONE STAR\C#\programas\guessAWord\guessWord\guessWord\bin\Debug\guessWord.exe
+D:\LONE STAR\C#\programas\guessAWord\guessWord\guessWord\bin\Debug\guessWord.pdb
+D:\LONE STAR\C#\programas\guessAWord\guessWord\guessWord\obj\Debug\guessWord.csprojAssemblyReference.cache
+D:\LONE STAR\C#\programas\guessAWord\guessWord\guessWord\obj\Debug\guessWord.Form1.resources
+D:\LONE STAR\C#\programas\guessAWord\guessWord\guessWord\obj\Debug\guessWord.Properties.Resources.resources
+D:\LONE STAR\C#\programas\guessAWord\guessWord\guessWord\obj\Debug\guessWord.csproj.GenerateResource.cache
+D:\LONE STAR\C#\programas\guessAWord\guessWord\guessWord\obj\Debug\guessWord.csproj.CoreCompileInputs.cache
+D:\LONE STAR\C#\programas\guessAWord\guessWord\guessWord\obj\Debug\guessWord.exe
+D:\LONE STAR\C#\programas\guessAWord\guessWord\guessWord\obj\Debug\guessWord.pdb
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWord\guessWord\bin\Debug\guessWord.exe.config
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWord\guessWord\bin\Debug\guessWord.exe
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWord\guessWord\bin\Debug\guessWord.pdb
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWord\guessWord\obj\Debug\guessWord.csprojAssemblyReference.cache
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWord\guessWord\obj\Debug\guessWord.Form1.resources
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWord\guessWord\obj\Debug\guessWord.Properties.Resources.resources
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWord\guessWord\obj\Debug\guessWord.csproj.GenerateResource.cache
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWord\guessWord\obj\Debug\guessWord.csproj.CoreCompileInputs.cache
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWord\guessWord\obj\Debug\guessWord.exe
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWord\guessWord\obj\Debug\guessWord.pdb
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWordWithException\guessWord\bin\Debug\guessWord.exe.config
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWordWithException\guessWord\bin\Debug\guessWord.exe
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWordWithException\guessWord\bin\Debug\guessWord.pdb
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWordWithException\guessWord\obj\Debug\guessWord.csprojAssemblyReference.cache
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWordWithException\guessWord\obj\Debug\guessWord.Form1.resources
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWordWithException\guessWord\obj\Debug\guessWord.Properties.Resources.resources
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWordWithException\guessWord\obj\Debug\guessWord.csproj.GenerateResource.cache
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWordWithException\guessWord\obj\Debug\guessWord.csproj.CoreCompileInputs.cache
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWordWithException\guessWord\obj\Debug\guessWord.exe
+D:\LONE STAR\C#\c# advanced\programs\Guess a word with exception\guessWordWithException\guessWord\obj\Debug\guessWord.pdb
